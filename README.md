@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MahmouddGado&label=Profile%20views&color=36bcf7&style=for-the-badge" alt="Profile views"/>
-  <a href="https://shari-msme.org/"><img src="https://img.shields.io/badge/Website-shari--msme.org-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://www.damen.com.eg"><img src="https://img.shields.io/badge/Website-damen.com.eg-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
   <img src="https://img.shields.io/badge/Based%20in-Egypt-c8102e?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Egypt"/>
 </p>
 
@@ -146,7 +146,7 @@ xychart-beta
 ## 🤝 Let's connect
 
 <p align="center">
-  <a href="https://shari-msme.org/"><img src="https://img.shields.io/badge/Website-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://www.damen.com.eg"><img src="https://img.shields.io/badge/Website-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
   <a href="https://github.com/MahmouddGado"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
