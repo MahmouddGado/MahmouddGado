@@ -41,7 +41,7 @@ const mahmoud = {
 
 | | Domain | What it looks like | Projects |
 |:-:|---|---|:-:|
-| 💳 | **Fintech & Payments** | Bill-payment platform, automated monthly financial closing (commission tiers, net revenue), anti-money-laundering compliance system, credit-bureau report automation | **5** |
+| 💳 | **Fintech & Payments** |  automated monthly financial closing (commission tiers, net revenue), anti-money-laundering compliance system, credit-bureau report automation | **5** |
 | 🤖 | **AI Agents & Automation** | A recruitment screening agent over WhatsApp, an operations agent that handles internal requests, an Outlook email analyzer and AI assistant, an AI pull-request reviewer | **6** |
 | 🧠 | **Machine Learning** | GPS-spoofing detection, malicious-URL / cyber-attack detection, traffic-congestion prediction, symptom-to-disease classification, live language translation | **7** |
 | 📱 | **Mobile (Flutter)** | A ride-hailing app with passenger and driver apps, a field-collection app, Firebase-backed prototypes | **5** |
